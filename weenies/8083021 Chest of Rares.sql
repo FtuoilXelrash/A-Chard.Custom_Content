@@ -1,7 +1,3 @@
-
--- Ftuoil Xelrash - 09-25-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
-
 DELETE FROM `weenie` WHERE `class_Id` = 8083021;
 
 INSERT INTO `weenie` (`class_Id`, `class_Name`, `type`, `last_Modified`)
@@ -99,4 +95,7 @@ VALUES  (8083021, -1, 30084, 0, 1, 1, 2, 8, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)  /*
       , (8083021, -1, 30258, 0, 1, 1, 2, 8, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)  /* 30258 Shimmering Skeleton Key */
       , (8083021, -1, 52034, 0, 1, 1, 2, 8, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)  /* 52034 Casino Exquisite Keyring */
       , (8083021, -1, 37622, 0, 1, 1, 2, 8, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)  /* 37622 Grand Casino Golden Keyring */
-      ; 
+; 
+
+-- Ftuoil Xelrash - 09-26-2025
+-- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
