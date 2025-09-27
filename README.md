@@ -62,10 +62,6 @@ This repository contains custom SQL-based content modifications for the **ACE (A
   - Clear documentation of ID usage
   - Future-proof numbering system
 
-- 📝 **Well-Documented** - Each item includes detailed SQL definitions and comments
-  - Author attribution on all files
-  - Modification dates tracked
-  - Clear usage instructions
 
 ## 🚀 Installation
 
@@ -183,56 +179,6 @@ mysql -u username -p ace_world < "weenies/8083023 Book of Cascading Light.sql"
 
 ## ❓ FAQ & Troubleshooting
 
-### Common Issues
-
-<details>
-<summary>🚫 "Duplicate entry" error when installing</summary>
-
-**Problem:** Getting duplicate key errors when running SQL files.
-
-**Solution:**
-1. Each SQL file includes DELETE statements to remove existing entries
-2. Make sure you're running the complete file, not partial statements
-3. Check that you haven't already installed the same content
-
-```bash
-# If you need to force reinstall
-mysql -u username -p ace_world -e "DELETE FROM weenie WHERE class_Id = 8083023;"
-mysql -u username -p ace_world < "weenies/8083023 Book of Cascading Light.sql"
-```
-
-</details>
-
-<details>
-<summary>🔍 Items not appearing in-game</summary>
-
-**Problem:** Custom items don't show up after installing SQL.
-
-**Solution:**
-1. Restart your ACE server after installing new content
-2. Verify the SQL was executed without errors
-3. Check that item IDs don't conflict with existing content
-4. Use the `/create` command in-game to spawn items directly
-
-```bash
-# In-game admin command
-/create 8083023  # Creates Book of Cascading Light
-```
-
-</details>
-
-<details>
-<summary>⚠️ Server performance impact</summary>
-
-**Problem:** Concerned about server performance with custom content.
-
-**Solution:**
-- These modifications only add static data to the database
-- No performance impact during normal gameplay
-- Items are loaded on-demand like retail content
-- Database size increase is minimal (< 1MB total)
-
-</details>
 
 ### Getting Help
 
@@ -243,15 +189,9 @@ mysql -u username -p ace_world < "weenies/8083023 Book of Cascading Light.sql"
 
 ## 👨‍💻 Author
 
-**Ftuoil Xelrash** - *Creator and maintainer of all custom content*
+**Ftuoil Xelrash** - *Creator and maintainer of all custom content in this repository*
 
-All items, recipes, and modifications in this repository were designed and implemented by Ftuoil Xelrash for the A-Chard community. Each SQL file includes author attribution and creation dates.
-
-### Content Standards
-- Consistent SQL structure and formatting
-- Unique ID ranges to prevent conflicts
-- Thorough testing on live servers
-- Community-focused design philosophy
+All items, recipes, and modifications in this repository were designed and implemented by Ftuoil Xelrash for the A-Chard community. 
 
 ## 📄 License
 
