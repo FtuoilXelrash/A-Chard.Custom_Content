@@ -24,14 +24,25 @@
 
 ## 📋 Table of Contents
 
-- [🌟 Overview](#-overview)
-- [✨ Features](#-features)
-- [🚀 Installation](#-installation)
-- [📦 Content Categories](#-content-categories)
-- [🖼️ Preview](#️-preview)
-- [🔧 Usage](#-usage)
-- [❓ FAQ & Troubleshooting](#-faq--troubleshooting)
-- [📄 License](#-license)
+- [� A'Chard Custom Content](#-achard-custom-content)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🌟 Overview](#-overview)
+  - [✨ Features](#-features)
+  - [🚀 Installation](#-installation)
+    - [Prerequisites](#prerequisites)
+    - [Quick Start](#quick-start)
+  - [📦 Content Categories](#-content-categories)
+    - [🎒 Weenies (`/weenies/`)](#-weenies-weenies)
+    - [🔨 Recipes (`/recipes/`)](#-recipes-recipes)
+    - [🔄 Retail Updates (`/RetailUpdates/`)](#-retail-updates-retailupdates)
+  - [🖼️ Preview](#️-preview)
+    - [Sample Custom Items](#sample-custom-items)
+    - [Recipe Enhancements](#recipe-enhancements)
+  - [🔧 Usage](#-usage)
+  - [❓ FAQ \& Troubleshooting](#-faq--troubleshooting)
+    - [Getting Help](#getting-help)
+  - [👨‍💻 Author](#-author)
+  - [📄 License](#-license)
 
 ## 🌟 Overview
 
@@ -83,17 +94,6 @@ This repository contains custom SQL-based content modifications for the **ACE (A
    mysqldump -u username -p ace_world > ace_world_backup.sql
    ```
 
-3. **Apply content files**
-   ```bash
-   # Apply all weenies
-   mysql -u username -p ace_world < weenies/*.sql
-
-   # Apply recipes
-   mysql -u username -p ace_world < recipes/*.sql
-
-   # Apply retail updates
-   mysql -u username -p ace_world < RetailUpdates/*.sql
-   ```
 
 ## 📦 Content Categories
 
@@ -172,10 +172,7 @@ VALUES (XXXXX, 'item_name', type_id, 'YYYY-MM-DD HH:MM:SS');
 -- ...
 ```
 
-### Individual File Installation
-```bash
-mysql -u username -p ace_world < "weenies/8083023 Book of Cascading Light.sql"
-```
+
 
 ## ❓ FAQ & Troubleshooting
 
