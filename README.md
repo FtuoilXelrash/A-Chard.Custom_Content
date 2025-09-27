@@ -24,7 +24,7 @@
 
 ## 📋 Table of Contents
 
-- [� A'Chard Custom Content](#-achard-custom-content)
+- [🎮 A'Chard Custom Content](#-achard-custom-content)
   - [📋 Table of Contents](#-table-of-contents)
   - [🌟 Overview](#-overview)
   - [✨ Features](#-features)
@@ -179,7 +179,7 @@ VALUES (XXXXX, 'item_name', type_id, 'YYYY-MM-DD HH:MM:SS');
 
 ### Getting Help
 
-- 🌐 **A-Chard Wiki:** [Visit Wiki](http://a-chard.ddns.net/achardwiki/index.php/Main_Page)
+- 🌐 **A'Chard Wiki:** [Visit Wiki](http://a-chard.ddns.net/achardwiki/index.php/Main_Page)
 - 🐛 **Report Issues:** [GitHub Issues](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/discussions)
 - 🔧 **ACE Project:** [ACE GitHub](https://github.com/ACEmulator/ACE)
@@ -188,7 +188,7 @@ VALUES (XXXXX, 'item_name', type_id, 'YYYY-MM-DD HH:MM:SS');
 
 **Ftuoil Xelrash** - *Creator and maintainer of all custom content in this repository*
 
-All items, recipes, and modifications in this repository were designed and implemented by Ftuoil Xelrash for the A-Chard community. 
+All items, recipes, and modifications in this repository were designed and implemented by Ftuoil Xelrash for the A'Chard community PVP server. 
 
 ## 📄 License
 
