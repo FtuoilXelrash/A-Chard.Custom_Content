@@ -44,3 +44,4 @@ VALUES (8083181,   1,   33554784) /* Setup */
 
 -- Ftuoil Xelrash - 09-26-2025
 -- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+-- Pocket Fluff removes -20 burden units and stacks to 1000
