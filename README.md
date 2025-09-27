@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<!-- Add your A-Chard wiki banner/logo here -->
-<img src="http://a-chard.ddns.net/achardwiki/images/your-logo.png" alt="A'Chard Banner" width="600"/>
+<a href="http://a-chard.ddns.net/achardwiki/index.php/Main_Page" target="_blank">
+<img src="http://a-chard.ddns.net/achardwiki/images/thumb/b/b1/Logo-1.jpg/300px-Logo-1.jpg" alt="A'Chard Banner" width="600"/>
+</a>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![ACE Compatible](https://img.shields.io/badge/ACE-Compatible-green.svg)
@@ -17,7 +18,7 @@
 
 *Extending the classic Asheron's Call experience with custom items, recipes, and enhancements*
 
-[Installation](#-installation) • [Content](#-content-categories) • [Preview](#-preview) • [Contributing](#-contributing) • [Wiki](http://a-chard.ddns.net/achardwiki/index.php/Main_Page)
+[Installation](#-installation) • [Content](#-content-categories) • [Preview](#-preview) • [FAQ](#-faq--troubleshooting) • <a href="http://a-chard.ddns.net/achardwiki/index.php/Main_Page" target="_blank">Wiki</a>
 
 </div>
 
@@ -32,7 +33,7 @@
 - [🖼️ Preview](#️-preview)
 - [🔧 Usage](#-usage)
 - [❓ FAQ & Troubleshooting](#-faq--troubleshooting)
-- [🤝 Contributing](#-contributing)
+- [👨‍💻 Author](#-author)
 - [📄 License](#-license)
 
 ## 🌟 Overview
@@ -238,35 +239,22 @@ mysql -u username -p ace_world < "weenies/8083023 Book of Cascading Light.sql"
 
 ### Getting Help
 
-- 🌐 **A-Chard Wiki:** [http://a-chard.ddns.net/achardwiki/index.php/Main_Page](http://a-chard.ddns.net/achardwiki/index.php/Main_Page)
-- 🐛 **Report Issues:** [GitHub Issues](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/discussions)
-- 🔧 **ACE Project:** [ACE GitHub](https://github.com/ACEmulator/ACE)
+- 🌐 **A-Chard Wiki:** <a href="http://a-chard.ddns.net/achardwiki/index.php/Main_Page" target="_blank">Visit Wiki</a>
+- 🐛 **Report Issues:** <a href="https://github.com/FtuoilXelrash/A-Chard.Custom_Content/issues" target="_blank">GitHub Issues</a>
+- 💬 **Discussions:** <a href="https://github.com/FtuoilXelrash/A-Chard.Custom_Content/discussions" target="_blank">GitHub Discussions</a>
+- 🔧 **ACE Project:** <a href="https://github.com/ACEmulator/ACE" target="_blank">ACE GitHub</a>
 
-## 🤝 Contributing
+## 👨‍💻 Author
 
-We welcome contributions! Please follow these guidelines:
+**Ftuoil Xelrash** - *Creator and maintainer of all custom content*
 
-### Adding New Content
-1. **Use appropriate ID ranges** to avoid conflicts
-2. **Follow the established SQL structure**
-3. **Include DELETE statements** to prevent duplicates
-4. **Add author attribution** at the end of files
-5. **Test thoroughly** before submitting
+All items, recipes, and modifications in this repository were designed and implemented by Ftuoil Xelrash for the A-Chard community. Each SQL file includes author attribution and creation dates.
 
-### Submission Process
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-item`)
-3. Add your content following the guidelines
-4. Commit your changes (`git commit -am 'Add new custom item'`)
-5. Push to the branch (`git push origin feature/new-item`)
-6. Create a Pull Request
-
-### Code Standards
-- Use consistent indentation (spaces preferred)
-- Include descriptive comments
-- Follow the established naming conventions
-- Ensure all referenced items exist in the game database
+### Content Standards
+- Consistent SQL structure and formatting
+- Unique ID ranges to prevent conflicts
+- Thorough testing on live servers
+- Community-focused design philosophy
 
 ## 📄 License
 
@@ -278,6 +266,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built for the ACE Community** 🎮
 
-[ACE Project](https://github.com/ACEmulator/ACE) • [Report Issues](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/issues) • [Discussions](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/discussions)
+<a href="https://github.com/ACEmulator/ACE" target="_blank">ACE Project</a> • <a href="https://github.com/FtuoilXelrash/A-Chard.Custom_Content/issues" target="_blank">Report Issues</a> • <a href="https://github.com/FtuoilXelrash/A-Chard.Custom_Content/discussions" target="_blank">Discussions</a>
 
 </div>
