@@ -8,7 +8,7 @@ VALUES (8083087,   1,      16384) /* ItemType - Key */
      , (8083087,   5,         10) /* EncumbranceVal */
      , (8083087,  16,    2097160) /* ItemUseable - SourceContainedTargetRemote */
      , (8083087,  18,         32) /* UiEffects - Fire */
-     , (8083087,  19,    		1000) /* Value */
+     , (8083087,  19,       1000) /* Value */
      , (8083087,  33,          0) /* Bonded - Normal */
      , (8083087,  91,          1) /* MaxStructure */
      , (8083087,  92,          1) /* Structure */
