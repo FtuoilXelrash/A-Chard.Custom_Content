@@ -103,8 +103,6 @@ This project modifies your ACE database with custom content. While all scripts h
 Custom game items including:
 - **Gems & Portals** - Transportation and utility items
 - **Chests & Containers** - Storage and reward containers
-- **Books & Tools** - Interactive items with special effects
-- **Keys & Unlocks** - Access control items
 
 **ID Ranges:**
 - `8080xxx` - Portals, gems, and utilities
@@ -147,7 +145,7 @@ Modifications to existing retail game content for balance and improvement.
 <summary>🧳 Chest of Eight Items</summary>
 
 **Description:** A mysterious chest containing eight special items
-- **Contents:** Various rare items and materials
+- **Contents:** Random level 8 scrolls
 - **Requirement:** Key of Eights or Reinforced Key of Eights
 - **ID:** 8083086
 
