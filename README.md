@@ -59,24 +59,21 @@ This project modifies your ACE database with custom content. While all scripts h
 
 - 🎯 **Custom Items (Weenies)** - 40+ unique game items with custom properties and behaviors
   - Portal gems for transportation
-  - Magical chests with special rewards
-  - Interactive books and tools
-  - Custom keys and access items
+  - Custom chests with special rewards
+  - Custom keys and access to custom chests
 
 - 🔧 **Enhanced Recipes** - Modified and new crafting recipes for improved gameplay
   - Enhanced prismatic tapers with increased output
   - Custom splitting mechanics
-  - Balanced recipe modifications
+  - Custom recipe modifications
 
 - 📈 **Retail Updates** - Modifications to existing retail game content
   - Updated drop rates and values
   - Enhanced item properties
-  - Bug fixes and improvements
 
 - 🆔 **Organized ID Ranges** - Systematic ID management to prevent conflicts
   - Dedicated ranges for different content types
   - Clear documentation of ID usage
-  - Future-proof numbering system
 
 
 ## 🚀 Installation
