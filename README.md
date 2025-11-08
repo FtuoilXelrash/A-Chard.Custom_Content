@@ -27,6 +27,7 @@
 - [🎮 A'Chard Custom Content](#-achard-custom-content)
   - [📋 Table of Contents](#-table-of-contents)
   - [🌟 Overview](#-overview)
+  - [⚠️ WARNING](#️-warning)
   - [✨ Features](#-features)
   - [🚀 Installation](#-installation)
     - [Prerequisites](#prerequisites)
@@ -48,7 +49,11 @@
 
 This repository contains custom SQL-based content modifications for the **ACE (Asheron's Call Emulator)** game server. It provides a collection of custom items, enhanced recipes, and retail content updates to extend the classic Asheron's Call experience.
 
-> ⚠️ **Use at your own risk!** Always backup your database before applying these modifications.
+## ⚠️ WARNING
+
+**Use at your own risk!** Always backup your database before applying these modifications.
+
+This project modifies your ACE database with custom content. While all scripts have been tested, always maintain a complete backup of your database before running any SQL modifications. In the event of issues, you may need to restore from your backup.
 
 ## ✨ Features
 
