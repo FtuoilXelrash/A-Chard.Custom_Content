@@ -47,7 +47,7 @@
 
 ## 🌟 Overview
 
-This repository contains custom SQL-based content modifications for the **ACE (Asheron's Call Emulator)** game server. It provides a collection of custom items, enhanced recipes, and retail content updates to extend the classic Asheron's Call experience.
+This repository contains custom SQL-based content modifications for the **ACE (Asheron's Call Emulator)** game server. It provides a collection of custom items, enhanced recipes, and retail content updates to extend the EOR(End of Retail) Asheron's Call experience.
 
 ## ⚠️ WARNING
 
