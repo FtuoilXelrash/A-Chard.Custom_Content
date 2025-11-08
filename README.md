@@ -182,6 +182,7 @@ VALUES (XXXXX, 'item_name', type_id, 'YYYY-MM-DD HH:MM:SS');
 - 🌐 **A'Chard Wiki:** [Visit Wiki](http://a-chard.ddns.net/achardwiki/index.php/Main_Page)
 - 🐛 **Report Issues:** [GitHub Issues](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/issues)
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/FtuoilXelrash/A-Chard.Custom_Content/discussions)
+- 💬 **Discord Support:** [Join our community for help and discussions](https://discord.gg/G8mfZH2TMp)
 - 🔧 **ACE Project:** [ACE GitHub](https://github.com/ACEmulator/ACE)
 
 ## 👨‍💻 Author
