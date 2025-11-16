@@ -5,7 +5,7 @@ VALUES (8083086, 'cus_chest_ChestofEightItems', 20, '2020-11-18 04:42:14') /* Ch
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (8083086,   1,        512) /* ItemType - Container */
-     , (8083086,   3,         10) /* 10 - LightBlue
+     , (8083086,   3,         10) /* 10 - LightBlue */
      , (8083086,   5,         10) /* EncumbranceVal */
      , (8083086,   6,         -1) /* ItemsCapacity */
      , (8083086,   7,         -1) /* ContainersCapacity */
@@ -256,7 +256,5 @@ VALUES
 
 */
 
-;
-
--- Ftuoil Xelrash - 09-26-2025
+-- Ftuoil Xelrash - 11-16-2025
 -- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
