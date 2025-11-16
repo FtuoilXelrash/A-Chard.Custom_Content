@@ -5,7 +5,7 @@ VALUES (8083093, 'cus_chest_ChestofEightVoids', 20, '2020-11-18 04:42:14') /* Ch
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (8083093,   1,        512) /* ItemType - Container */
-     , (8083093,   3,         13) /* 13 - Purple
+     , (8083093,   3,         13) /* 13 - Purple */
      , (8083093,   5,         10) /* EncumbranceVal */
      , (8083093,   6,         -1) /* ItemsCapacity */
      , (8083093,   7,         -1) /* ContainersCapacity */
@@ -115,7 +115,6 @@ VALUES
 44233 Inscription of Nether Blast
 
 */
-;
 
--- Ftuoil Xelrash - 09-26-2025
+-- Ftuoil Xelrash - 11-16-2025
 -- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
