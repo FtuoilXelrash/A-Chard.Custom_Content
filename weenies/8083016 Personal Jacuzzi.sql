@@ -54,5 +54,6 @@ VALUES (@parent_id,  0,  13 /* TextDirect */, 0, 1, NULL, 'You feel the tiny lit
      , (@parent_id,  3,  19 /* CastSpellInstant */, 0, 1, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 4310 /* Incantation of Heal Other */, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
 ;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

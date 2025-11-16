@@ -61,5 +61,6 @@ INSERT INTO `weenie_properties_emote_action` (`emote_Id`, `order`, `type`, `dela
 VALUES (@parent_id,  0,  99 /* Teleport         */, 5, 0, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 0x010F0100, -2.407537, 1.063919, 0.005000, -0.703395, 0, 0, 0.710799);
                                                 /* /teleloc 0x010F0100 [-2.407537 1.063919 0.005000] -0.703395 0.000000 0.000000 0.710799 * AC Red Room */                                                               /* 0x010F0100 [-2.407537 1.063919 0.005000] -0.703395 0.000000 0.000000 0.710799 * AC Red Room * */
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

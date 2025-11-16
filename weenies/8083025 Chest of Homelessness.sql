@@ -86,5 +86,6 @@ VALUES (8083025, -1,  2625,   0, 1, 1, 2, 8, 100, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) 
      , (8083025, -1,   273,   0, 1, 1, 2, 8, 1000, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Create Pyreal (273) for Contain */
 ; 
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

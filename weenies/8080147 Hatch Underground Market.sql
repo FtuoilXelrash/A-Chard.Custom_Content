@@ -44,5 +44,6 @@ INSERT INTO `weenie_properties_position` (`object_Id`, `position_Type`, `obj_Cel
 VALUES (8080147, 2, 0x880202C4, 235.157852, -30.625189, 0.005000, 0.999719, 0.000000, 0.000000, 0.023687) /* Destination Castle RagaKo*/
 /* @teleloc 0x880202C4 [235.157852 -30.625189 0.005000] 0.999719 0.000000 0.000000 0.023687 */;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

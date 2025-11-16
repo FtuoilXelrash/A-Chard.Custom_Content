@@ -39,5 +39,6 @@ VALUES (8080018, 2, 0x33DA0024, 108.000000, 84.000000 , 60.005001, 1.000000, 0, 
 /* Your location is: 0x33DA0024 [108.000000 84.000000 60.005001] 1.000000 0.000000 0.000000 0.000000 */
 ;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

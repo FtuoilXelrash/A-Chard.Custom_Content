@@ -38,5 +38,6 @@ INSERT INTO `weenie_properties_position` (`object_Id`, `position_Type`, `obj_Cel
 VALUES (8080025, 2, 0x1035003C, 179.999023, 83.999023, 72.005005, 1.000000, 0.000000, 0.000000, 0.000000) /* Destination */;
           /* @teleloc  0x1035003C [179.999023 83.999023 72.005005] 1.000000 0.000000 0.000000 0.000000 */                                                                                                                                                                 
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

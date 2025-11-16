@@ -33,6 +33,7 @@ VALUES (8087001,   1,   33556158) /* Setup */
      , (8087001,  22, 0x34000060) /* PhysicsEffectTable */
 ;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content
 -- DJRock is a very small rock that plays Disco music. Increase the DefaultScale, make ShowableOnRadar, put it where you want and then reverse the changes

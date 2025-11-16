@@ -8,5 +8,6 @@ DELETE FROM `cook_book` WHERE `recipe_Id` = 1752;
 INSERT INTO `cook_book` (`recipe_Id`, `source_W_C_I_D`, `target_W_C_I_D`, `last_Modified`)
 VALUES (1752, 8283 /* Splitting Tool */, 20963 /* Prismatic Pea */, '2023-02-09 10:00:00');
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

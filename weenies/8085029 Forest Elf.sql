@@ -192,5 +192,6 @@ VALUES (8085029,  2, 41886,  0, 14, 0, False) /* Create 41886 Ultimate Singulari
      , (8085029,  9,      0,    0,  0,  0.9997, False) /* Create nothing for ContainTreasure */
 ;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

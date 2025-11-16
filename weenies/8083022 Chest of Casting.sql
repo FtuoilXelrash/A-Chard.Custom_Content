@@ -69,5 +69,5 @@ VALUES  (8083022, -1, 2623, 0, 1, 1, 2, 8, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0) /*
       , (8083022, -1, 691, 0, 1, 1, 2, 8, 100, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0)  /* 691 Lead Scarab */
 ; 
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

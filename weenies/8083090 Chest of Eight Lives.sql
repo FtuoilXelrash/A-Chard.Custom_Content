@@ -257,4 +257,4 @@ Martyr's Blight (Spell)
 
 
 -- Ftuoil Xelrash - 11-16-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

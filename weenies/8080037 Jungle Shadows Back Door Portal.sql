@@ -42,5 +42,6 @@ VALUES (8080037, 2, 0x02BB011C, 3.556360, -10.171831, -5.995000, -0.704655 , 0.0
 /* @teleloc 0x02BB011C [3.556360 -10.171831 -5.995000] -0.704655 0.000000 0.000000 0.709551 */
 ;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

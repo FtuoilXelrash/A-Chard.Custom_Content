@@ -56,5 +56,6 @@ VALUES (8083113,   1, 0x02000921) /* Setup */
      , (8083113,  52,  100689403) /* IconUnderlay */
 ;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content

@@ -37,5 +37,6 @@ VALUES (8080057,   1, 0x020008A2) /* Setup */
      , (8080057,   8, 0x06001224) /* Icon */
      , (8080057,  22, 0x3400005A) /* PhysicsEffectTable */;
 
--- Ftuoil Xelrash - 09-26-2025
--- https://github.com/FtuoilXelrash/A-Chard.Custom_Content
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content
