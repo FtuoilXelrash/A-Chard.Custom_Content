@@ -36,3 +36,6 @@ VALUES (27329,   1, 'Massive Mana Charge') /* Name */
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
 VALUES (27329,   1,   33555641) /* Setup */
      , (27329,   8,  100676403) /* Icon */;
+
+-- Ftuoil Xelrash - 11-16-2025
+-- https://github.com/FtuoilXelrash/AChard.Custom.Content
