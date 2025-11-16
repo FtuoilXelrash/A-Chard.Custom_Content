@@ -5,7 +5,7 @@ VALUES (8083091, 'cus_chest_ChestofEightWars', 20, '2020-11-18 04:42:14') /* Che
 
 INSERT INTO `weenie_properties_int` (`object_Id`, `type`, `value`)
 VALUES (8083091,   1,        512) /* ItemType - Container */
-     , (8083091,   3,         14) /* 14 - Red
+     , (8083091,   3,         14) /* 14 - Red */
      , (8083091,   6,         -1) /* ItemsCapacity */
      , (8083091,   7,         -1) /* ContainersCapacity */
      , (8083091,  16,         48) /* ItemUseable - ViewedRemote */
@@ -161,7 +161,7 @@ VALUES
 /* (30) 37863 Inscription of Lightning Volley */
       , (8083091,     0.857142857142858,    37863,    0, 2, 1, 2,  8,1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)   /* 37863  Inscription of Lightning Volley */
 
-/* (35) items 1/35 = 0.0285714285714286 * x/
+/* (35) items 1/35 = 0.0285714285714286 * */
 
 /* (31) 37932 Inscription of Shock Arc */
     ,  (8083091,      0.8857142857142866,     37932,    0, 1, 1, 2,  8, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)  /* 37932  Inscription of Shock Arc */
@@ -177,7 +177,6 @@ VALUES
 
 /* (35) 37673 Inscription of Bludgeoning Volley */
       , (8083091,     0.9999999999999996,     37673,    0, 2, 1, 2,  8,1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)   /* 37673  Inscription of Bludgeoning Volley */
-
 ;
 
 
@@ -228,7 +227,6 @@ xx TOTAL
 37673 Inscription of Bludgeoning Volley
 
 */
-;
 
--- Ftuoil Xelrash - 09-26-2025
+-- Ftuoil Xelrash - 11-16-2025
 -- https://github.com/FtuoilXelrash/A-Chard.Custom_Content

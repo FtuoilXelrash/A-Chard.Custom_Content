@@ -38,7 +38,7 @@ VALUES (8083015,  39,      .2) /* DefaultScale */
 INSERT INTO `weenie_properties_string` (`object_Id`, `type`, `value`)
 VALUES (8083015,   1, 'Wooden Gem') /* Name */
      , (8083015,  14, 'Double Click on this gem to transport yourself to a far-away place in the clouds...') /* Use */
-/*     , (8083015,  15, 'Click Me!') /* ShortDesc */
+--     , (8083015,  15, 'Click Me!') /* ShortDesc */
      , (8083015,  16, 'A finely crafted gem carefully carved from the oldest of trees by the Buff Agents as a reward.!') /* LongDesc */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
