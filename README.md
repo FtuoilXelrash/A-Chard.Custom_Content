@@ -1,5 +1,5 @@
 # 🎮 A'Chard Custom Content
-
+ 
 <div align="center">
 
 [![A'Chard Banner](http://a-chard.ddns.net/achardwiki/images/thumb/b/b1/Logo-1.jpg/300px-Logo-1.jpg)](http://a-chard.ddns.net/achardwiki/index.php/Main_Page)
